@@ -1,14 +1,13 @@
 {
-  "main.css": "/mikel.dev/static/css/main.7a3a0326.chunk.css",
-  "main.js": "/mikel.dev/static/js/main.ae413a37.chunk.js",
-  "main.js.map": "/mikel.dev/static/js/main.ae413a37.chunk.js.map",
+  "main.css": "/mikel.dev/static/css/main.a52280c5.chunk.css",
+  "main.js": "/mikel.dev/static/js/main.6b14dad8.chunk.js",
+  "main.js.map": "/mikel.dev/static/js/main.6b14dad8.chunk.js.map",
   "runtime~main.js": "/mikel.dev/static/js/runtime~main.7282f4c4.js",
   "runtime~main.js.map": "/mikel.dev/static/js/runtime~main.7282f4c4.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/mikel.dev/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/mikel.dev/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/mikel.dev/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/mikel.dev/static/js/2.c88c70e5.chunk.js.map",
   "index.html": "/mikel.dev/index.html",
-  "precache-manifest.8c4d6d1fb7eba2502f3920bb33e54de6.js": "/mikel.dev/precache-manifest.8c4d6d1fb7eba2502f3920bb33e54de6.js",
+  "precache-manifest.9027cebc908ec9652d15cb3996381c1c.js": "/mikel.dev/precache-manifest.9027cebc908ec9652d15cb3996381c1c.js",
   "service-worker.js": "/mikel.dev/service-worker.js",
-  "static/css/main.7a3a0326.chunk.css.map": "/mikel.dev/static/css/main.7a3a0326.chunk.css.map",
-  "static/media/logo.svg": "/mikel.dev/static/media/logo.5d5d9eef.svg"
+  "static/css/main.a52280c5.chunk.css.map": "/mikel.dev/static/css/main.a52280c5.chunk.css.map"
 }
