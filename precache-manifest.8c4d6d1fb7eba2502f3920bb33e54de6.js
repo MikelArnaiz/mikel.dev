@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/mikel.dev/static/js/runtime~main.7282f4c4.js"
   },
   {
-    "revision": "72792922252a50695ad0",
-    "url": "/mikel.dev/static/js/main.72792922.chunk.js"
+    "revision": "ae413a37a44c4ecd938e",
+    "url": "/mikel.dev/static/js/main.ae413a37.chunk.js"
   },
   {
     "revision": "5bf9b2cda7c63b962686",
     "url": "/mikel.dev/static/js/2.5bf9b2cd.chunk.js"
   },
   {
-    "revision": "72792922252a50695ad0",
+    "revision": "ae413a37a44c4ecd938e",
     "url": "/mikel.dev/static/css/main.7a3a0326.chunk.css"
   },
   {
-    "revision": "eb5ee2a1dc65d2b90621deb0b590f48e",
+    "revision": "b6a60040102b841b3ebc604fe0e30fa1",
     "url": "/mikel.dev/index.html"
   }
 ];
