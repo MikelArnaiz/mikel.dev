@@ -1,13 +1,13 @@
 {
-  "main.css": "/mikel.dev/static/css/main.a52280c5.chunk.css",
-  "main.js": "/mikel.dev/static/js/main.6b14dad8.chunk.js",
-  "main.js.map": "/mikel.dev/static/js/main.6b14dad8.chunk.js.map",
-  "runtime~main.js": "/mikel.dev/static/js/runtime~main.7282f4c4.js",
-  "runtime~main.js.map": "/mikel.dev/static/js/runtime~main.7282f4c4.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/mikel.dev/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/mikel.dev/static/js/2.c88c70e5.chunk.js.map",
-  "index.html": "/mikel.dev/index.html",
-  "precache-manifest.9027cebc908ec9652d15cb3996381c1c.js": "/mikel.dev/precache-manifest.9027cebc908ec9652d15cb3996381c1c.js",
-  "service-worker.js": "/mikel.dev/service-worker.js",
-  "static/css/main.a52280c5.chunk.css.map": "/mikel.dev/static/css/main.a52280c5.chunk.css.map"
+  "main.css": "/static/css/main.a52280c5.chunk.css",
+  "main.js": "/static/js/main.2c7468e8.chunk.js",
+  "main.js.map": "/static/js/main.2c7468e8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.332cf4e15470f17f4ef0331d13e62d5c.js": "/precache-manifest.332cf4e15470f17f4ef0331d13e62d5c.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.a52280c5.chunk.css.map": "/static/css/main.a52280c5.chunk.css.map"
 }
