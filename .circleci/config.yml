@@ -39,6 +39,8 @@ jobs:
       - restore_cache:
           keys:
             - v1-dependencies-{{ checksum "yarn.lock" }}
+      - run: yarn install
+      - run: yarn test
       - run: yarn deploy
 
 workflows:
