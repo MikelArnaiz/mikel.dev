@@ -30,3 +30,22 @@ jobs:
 
       # run tests!
       - run: yarn test
+
+  build_github_page:
+    docker:
+      - image: circleci/node:11.10.1
+    steps:
+      - checkout
+      - run: yarn deploy
+
+workflows:
+  version: 2
+  mikel.dev:
+    jobs:
+      - build
+      - build_github_page:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
