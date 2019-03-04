@@ -40,14 +40,16 @@ jobs:
           keys:
             - v1-dependencies-{{ checksum "yarn.lock" }}
       - run: yarn install
-      - run: yarn test
       - run: yarn deploy
 
 workflows:
   version: 2
   mikel.dev:
     jobs:
-      - build
+      - build:
+          filters:
+            branches:
+              ignore: gh-pages
       - build_github_page:
           requires:
             - build
