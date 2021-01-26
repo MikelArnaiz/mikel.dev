@@ -40,8 +40,8 @@ jobs:
           keys:
             - v1-dependencies-{{ checksum "yarn.lock" }}
       - run: yarn install
-      - run: yarn deploy
       - run: yarn createCV
+      - run: yarn deploy
 
 workflows:
   version: 2
