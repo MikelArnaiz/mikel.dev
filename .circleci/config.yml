@@ -41,6 +41,7 @@ jobs:
             - v1-dependencies-{{ checksum "yarn.lock" }}
       - run: yarn install
       - run: yarn deploy
+      - run: yarn createCV
 
 workflows:
   version: 2

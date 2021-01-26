@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build && cp CNAME build/CNAME",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "createCV": "node cv/create.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,6 +32,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "gh-pages": "^2.0.1"
   }
 }
